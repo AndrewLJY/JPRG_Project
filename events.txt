@@ -1,0 +1,3 @@
+Job Fair;NTU Club;10.9;01-Dec-2020;Public
+Dancing;SP Club;69;01-Jan-2021;Private;dance4life
+Singing;NUS Club;50;15-Jan-2021;Public
